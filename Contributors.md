@@ -9,6 +9,7 @@
 - [V4M0N0S](https://github.com/V4M0N0S)
 - [Muhammad Rahman](https://github.com/mfrahman123)
 - [hola]
+- [Girish bari] (https://github.com/Girishbari)
 - [Jayrup Nakawala](https://github.com/CaptainJack9832)
 - [Vinicius Gomes Ferreira](https://github.com/viniciusgferreira)
 - [Abulfazl Haidary](https://github.com/abulfazl-haidary)
